@@ -1,6 +1,6 @@
 print("Welcome")
 p = int(input("Please enter your pin number: "))
-m = 50000
+m = 100000
 
 while True:
     if p != 0:
